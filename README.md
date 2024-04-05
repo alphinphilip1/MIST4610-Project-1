@@ -57,5 +57,22 @@ The 'Teams' entity consists of the various teams within the club which are made 
 <img width="591" alt="Screenshot 2024-03-30 at 8 54 06 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/edff218d-9973-4cb4-bb5d-ddba819b3f93">
 
 ## Queries:
+1.) (List of all players with their teams. ) 
+
+
+Description: A manager can use this information to quickly see the roster of players and their respective teams, which is fundamental for organization and team management.
+
+Query 1 lists each individual player with their respective team. Query 1 allows managers to automatically list players and their teams in alphabetic order rather than having to manually scan the roster for each individual player. A manager can use this information to quickly see the roster of players and their respective teams, which is fundamental for organization and team management.
+
 ![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/8c59d08c-ce70-4671-aa11-42468495e985)
+
+2.) Total amount spent on player contracts 
+
+Description: This helps a manager understand the financial commitments of the organization to player salaries, which is crucial for budgeting and financial planning.
+
+Query 2 displays the total amount of how much was spent on each players contract. This allows the managers to see the financial commitment of each player on the sports league relative to their salaries. This query will be very useful in future budget allocations as well as general financial planning.
+
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/2a179dbe-1e5a-4fbb-ba50-fed4366e38ce)
+
+
 
