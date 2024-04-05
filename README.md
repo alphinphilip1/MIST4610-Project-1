@@ -57,7 +57,7 @@ The 'Teams' entity consists of the various teams within the club which are made 
 <img width="591" alt="Screenshot 2024-03-30 at 8 54 06 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/edff218d-9973-4cb4-bb5d-ddba819b3f93">
 
 ## Queries:
-1.) (List of all players with their teams. ) 
+1.) List of all players with their teams.  
 
 
 Description: A manager can use this information to quickly see the roster of players and their respective teams, which is fundamental for organization and team management.
@@ -73,6 +73,28 @@ Description: This helps a manager understand the financial commitments of the or
 Query 2 displays the total amount of how much was spent on each players contract. This allows the managers to see the financial commitment of each player on the sports league relative to their salaries. This query will be very useful in future budget allocations as well as general financial planning.
 
 ![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/2a179dbe-1e5a-4fbb-ba50-fed4366e38ce)
+
+3.) Current brand deals 
+
+Description: A manager can assess the value and number of active brand deals, an important aspect of revenue stream analysis.
+
+Query 3 displays all of the current active brand deals as well as how much they are valued at. This query conveniently organizes the brand deals so the managers will not have to manually sift through their sponsorships. This query allows managers to analye their current brand deals as well as make decisions on future brand deals which is an important aspect of revenue stream analysis.
+
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/f9f8f833-4e02-4cfb-b8aa-6b64123cbb17)
+
+4.) Retrieve all equipment types and their count. 
+
+Description: Managers need to keep track of the equipment inventory to ensure that there are enough supplies for training and matches.
+
+Query 4 displays each type of equipment as well as their count. Query 4 allows managers to keep track of the equipment inventory to ensure that there are enough supplies for training and matches. This query helps in inventory management and future procurement planning.
+
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/ad1fc273-8202-4f1a-836f-c95ffdab1563)
+
+
+
+
+
+
 
 
 
