@@ -27,7 +27,8 @@ The 'Teams' entity consists of the various teams within the club which are made 
 
 
 ## Data Dictionary: 
-<img width="902" alt="Screenshot 2024-03-30 at 4 31 31 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/04caab77-1f31-4ac9-a504-525aec266f70">
+
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/7945ed0b-a217-4b94-b016-3b8f12971d0c)
 
 <img width="893" alt="Screenshot 2024-03-30 at 4 32 06 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/39ca2528-21c5-40e1-9b64-fbcce74687a8">
 
