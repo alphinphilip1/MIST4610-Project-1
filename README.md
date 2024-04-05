@@ -15,7 +15,7 @@ The given task is to model and build a relational database that stores useful an
 in a manner that is relevant from a managerial perspective.
 
 ## Data Model:
-This data model is based on the structure of a hypothetical football club. The 'Players' entity represents each of the individuals that play on the football teams. Each player has a single contract and each contract is designated for a single player, so we placed a one-to-one relationship between these two entities.
+This data model is based on the structure of a hypothetical basketball club. The 'Players' entity represents each of the individuals that play on the basketball teams. Each player has a single contract and each contract is designated for a single player, so we placed a one-to-one relationship between these two entities.
 
 Apart from the 'PlayerContracts' entity, the 'Players' entity has three other branches extending from it. The 'Medical Records' entity represents the health and patient history of each player. It includes information on types of injuries, when they occurred, whether they have recovered, and their expected return date to the team. Each player can have multiple medical records, such as records from different healthcare providers, but each medical record will only correspond to a single player. Hence, we established a one-to-many relationship between the 'Players' and 'Medical Records' entities. Similarly, we put a one-to-many relationship between 'Players' and 'Brand Deals' since one player can have brand deals with multiple brands. 
 
