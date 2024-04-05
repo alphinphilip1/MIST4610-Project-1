@@ -30,33 +30,27 @@ The 'Teams' entity consists of the various teams within the club which are made 
 
 ![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/7945ed0b-a217-4b94-b016-3b8f12971d0c)
 
-<img width="893" alt="Screenshot 2024-03-30 at 4 32 06 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/39ca2528-21c5-40e1-9b64-fbcce74687a8">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/97ee8c12-8523-4add-a154-73f196704616)
 
-<img width="871" alt="Screenshot 2024-03-30 at 8 50 20 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/4fa35d30-8d81-46cb-8a6d-72be935f10e5">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/4514eb6d-4ad9-4565-b006-669bbd61fd06)
 
-<img width="602" alt="Screenshot 2024-03-30 at 8 50 32 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/d290ca46-4751-486d-bfb0-bf038139ca23">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/02f9409f-be98-435a-89fb-aa378fc69ce3)
 
-<img width="698" alt="Screenshot 2024-03-30 at 4 37 38 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/581ea3be-65b8-4822-9b75-3e8c6978fd1a">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/cbddb860-344c-4d20-a3fa-991990cdd5c0)
 
-<img width="587" alt="Screenshot 2024-03-30 at 8 53 13 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/21d6692a-3426-4336-856f-0959207fe120">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/8e5cabb2-f74d-42bc-be30-010784bcb493)
 
-<img width="588" alt="Screenshot 2024-03-30 at 8 53 19 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/faf92e8c-8524-4913-8f6a-2d1f172e757e">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/3036c07d-26f7-4b69-92e9-62213b0b8c16)
 
-<img width="685" alt="Screenshot 2024-03-30 at 4 37 49 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/e391799d-31f5-4bbb-af18-c1702066416b">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/d89df06e-b84e-43fa-891b-1f140263f498)
 
-<img width="589" alt="Screenshot 2024-03-30 at 8 53 28 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/d5314a93-e36c-4f9a-aeed-d371c188422a">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/e7d1b45d-fd88-4795-a34c-fe8599b1a2a3)
 
-<img width="588" alt="Screenshot 2024-03-30 at 8 53 35 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/888b1e5f-e3c6-4487-b122-62d5a75c2e9d">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/19279708-957a-4a32-bcc6-2190f83dcab4)
 
-<img width="597" alt="Screenshot 2024-03-30 at 8 53 41 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/177e1d9d-85d3-49a8-81e4-a4770a4c1303">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/66d9f794-ac0b-4041-bd45-69bb398f02a7)
 
-<img width="587" alt="Screenshot 2024-03-30 at 8 53 48 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/ef517d62-3eb6-4caf-99e3-3626303a6fe6">
-
-<img width="590" alt="Screenshot 2024-03-30 at 8 53 53 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/d0ff946b-b4f7-4ba4-ba66-c947ac98abe3">
-
-<img width="588" alt="Screenshot 2024-03-30 at 8 54 00 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/98f65bb7-d46a-4180-be16-2df947660995">
-
-<img width="591" alt="Screenshot 2024-03-30 at 8 54 06 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/edff218d-9973-4cb4-bb5d-ddba819b3f93">
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/8f12e0c8-5044-4ea6-8db5-b7f06205079c)
 
 ## Queries:
 1.) List of all players with their teams.  
