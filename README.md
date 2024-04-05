@@ -57,3 +57,5 @@ The 'Teams' entity consists of the various teams within the club which are made 
 <img width="591" alt="Screenshot 2024-03-30 at 8 54 06 PM" src="https://github.com/indhu0614/MIST_GP/assets/165066443/edff218d-9973-4cb4-bb5d-ddba819b3f93">
 
 ## Queries:
+![image](https://github.com/alphinphilip1/MIST4610-Project-1/assets/166083116/8c59d08c-ce70-4671-aa11-42468495e985)
+
