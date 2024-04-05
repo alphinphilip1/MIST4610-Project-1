@@ -6,7 +6,7 @@
 ## Team Members:
 1. Leonardo Hodis (@Leonardo-Hodis)
 2. Chris Bohr (@ChrisBohr)
-3. Alphin Philip
+3. Alphin Philip (@alphinphilip1)
 4. Prathu Garg (@Prathulu)
 5. Indhu Madineni (@indhu0614)
 
